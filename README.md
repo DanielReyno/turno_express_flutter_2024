@@ -35,7 +35,6 @@
 <img width="373" height="815" alt="image" src="https://github.com/user-attachments/assets/b2b68162-64c8-4259-a6dd-bec33d9869d0" />
 
 <h2>Registrar/editar un establecimiento en la aplicacion</h2>
-![create_establishment](https://raw.githubusercontent.com/assets/create_establishment.gif)
 <iframe src="https://giphy.com/embed/OqLcvvZbFkykD3hnUN" width="216" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OqLcvvZbFkykD3hnUN">via GIPHY</a></p>
 
 
