@@ -36,7 +36,7 @@
 
 <h2>Registrar/editar un establecimiento en la aplicacion</h2>
 ![create_establishment](https://raw.githubusercontent.com/assets/create_establishment.gif)
-![giphy](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV3ZTNoMWJiMW9lbmh6NWoxZGZ3c21mamt3aDlqcTBqdjlkeDllaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OqLcvvZbFkykD3hnUN/giphy.gif)
+<iframe src="https://giphy.com/embed/OqLcvvZbFkykD3hnUN" width="216" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/OqLcvvZbFkykD3hnUN">via GIPHY</a></p>
 
 
 
