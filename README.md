@@ -35,6 +35,6 @@
 <img width="373" height="815" alt="image" src="https://github.com/user-attachments/assets/b2b68162-64c8-4259-a6dd-bec33d9869d0" />
 
 <h2>Registrar/editar un establecimiento en la aplicacion</h2>
-![create_establishment](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV3ZTNoMWJiMW9lbmh6NWoxZGZ3c21mamt3aDlqcTBqdjlkeDllaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OqLcvvZbFkykD3hnUN/giphy.gif)
+![create_establishment](https://github-production-user-asset-6210df.s3.amazonaws.com/121466966/475097020-93df45a3-e25f-47a2-b590-1a85ebe56d04.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250806T154126Z&X-Amz-Expires=300&X-Amz-Signature=543cb45656f38b0afed22142dd2a5fe97f291e76582d012429891726cb24525c&X-Amz-SignedHeaders=host)
 
 
