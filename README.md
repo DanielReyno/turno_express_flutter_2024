@@ -35,7 +35,7 @@
 <img width="373" height="815" alt="image" src="https://github.com/user-attachments/assets/b2b68162-64c8-4259-a6dd-bec33d9869d0" />
 
 <h2>Registrar/editar un establecimiento en la aplicacion</h2>
-![create_establishment](https://github.com/user-attachments/assets/804de7d7-de2b-4530-afd2-259d3fe83cae)
+![create_establishment](https://raw.githubusercontent.com/assets/create_establishment.gif)
 
 
 
