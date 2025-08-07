@@ -35,6 +35,8 @@
 <img width="373" height="815" alt="image" src="https://github.com/user-attachments/assets/b2b68162-64c8-4259-a6dd-bec33d9869d0" />
 
 <h2>Registrar/editar un establecimiento en la aplicacion</h2>
-![create_establishment](https://github.com/DanielReyno/turno_express_flutter_2024/blob/main/assets/create_establishment.gif)
+<img width="300" src="https://github.com/user-attachments/assets/3ec4390c-7c44-4f27-8c95-0ce0448e05cb"/>
+
+
 
 
