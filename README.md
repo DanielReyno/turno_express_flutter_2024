@@ -1,42 +1,44 @@
 # turno_express_flutter_2024
 
 <h2>Login view</h2>
-<img width="300" alt="login-gif" src="https://github.com/user-attachments/assets/49d6b9b4-9e07-484d-a9d8-b6d9a15b1a35"/>
+<img alt="login-gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGsyc3ltMjJhZmF1bDFjeHQ3c2c0Mjk2MXJtZndvdmw4aGk2bjlnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nHLFtCMSEWjyiXcnCz/giphy.gif"/>
 
 <h2>Crear una cuenta</h2>
-<img width="300" alt="register-gif" src="https://github.com/user-attachments/assets/a224b5fc-ed21-4460-805a-865940a73d34"/>
+<img alt="register-gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZubzllbDc5a3N1ZmVnZTg0OGdhc3hiaHpibGh5dGc2eWY1dzFvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OgIUKwcTyF1yL3I9w7/giphy.gif"/>
 
 
 
 <h2>Pagina Principal</h2>
-<img width="375" height="844" alt="image" src="https://github.com/user-attachments/assets/f3f4a7db-c103-43bf-ab81-d6d6b49afe2a" />
+<img alt="home_view" src="https://media.giphy.com/media/TbOtxfLbxbHJiDn7W0/giphy.gif" />
 
 <h2>Menu de opciones</h2>
-<img width="375" height="814" alt="image" src="https://github.com/user-attachments/assets/6775c51a-ee5b-4540-b8db-54bc64f673f6" />
+<img alt="image" src="https://media.giphy.com/media/RBfeMYl0kCVoVqbN9M/giphy.gif" />
 
 <h2>Visualizacion de perfil activo</h2>
-<img width="375" height="817" alt="image" src="https://github.com/user-attachments/assets/42d1544a-01a9-4085-8d9d-e925fc66f5ce" />
-<img width="375" height="811" alt="image" src="https://github.com/user-attachments/assets/af86360d-bd5b-4fbb-aa1c-7469d3cc0e8f" />
+<img alt="image" src="https://media.giphy.com/media/Tda5B71RYyXUnQZjNj/giphy.gif" />
 
 <h2>Creditos de la aplicacion</h2>
 <img width="376" height="817" alt="image" src="https://github.com/user-attachments/assets/cb6bc4ac-c976-4313-9cd2-ba11e0818782" />
 
 <h2>Cambio de temas</h2>
-<img width="377" height="814" alt="image" src="https://github.com/user-attachments/assets/7e6ff557-19e1-4e28-8704-69a7b3adb980" />
-<img width="373" height="811" alt="image" src="https://github.com/user-attachments/assets/c7287a46-e337-455c-8331-14f2dd47dff1" />
-<img width="376" height="817" alt="image" src="https://github.com/user-attachments/assets/e0195533-cf48-4390-a97f-d0b7556b7b8a" />
+<img alt="image" src="https://media.giphy.com/media/qds51ZktC7sotKpixM/giphy.gif" />
 
 <h2>Vista para visualizar las citas agendadas</h2>
-<img width="375" height="813" alt="image" src="https://github.com/user-attachments/assets/82a14681-8534-4647-979d-ae71520c5a81" />
+<img alt="image" src="https://media.giphy.com/media/3AvIgrKtDHv68IfuUc/giphy.gif" />
 
 <h2>Vista para visualizar el historial de citas</h2>
-<img width="375" height="811" alt="image" src="https://github.com/user-attachments/assets/f5d0e4dd-d246-4475-b90e-33463ec3f3d4" />
+<img alt="image" src="https://media.giphy.com/media/L467lcLJfqL0NHP9qu/giphy.gif" />
 
 <h2>Vista para visualizar los establecimientos propios</h2>
-<img width="373" height="815" alt="image" src="https://github.com/user-attachments/assets/b2b68162-64c8-4259-a6dd-bec33d9869d0" />
+<img alt="image" src="https://media.giphy.com/media/gwBGfeDyNFqFtWiOdu/giphy.gif" />
 
 <h2>Registrar/editar un establecimiento en la aplicacion</h2>
-<img width="300" src="https://github.com/user-attachments/assets/3ec4390c-7c44-4f27-8c95-0ce0448e05cb"/>
+<img alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamp5ZG9zejF4Z2V3YjV4YXpiMmtua3Q1bjJiZXI2bnhlNmEzOW5uOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OqLcvvZbFkykD3hnUN/giphy.gif"/>
+
+<h2>Detalles de un establecimiento</h2>
+<img alt="image" src="https://media.giphy.com/media/qSKCzTkZS0s0GdIfcX/giphy.gif"/>
+<img alt="image" src="https://media.giphy.com/media/IKhRjnmWWAxwHdtmoD/giphy.gif"/>
+<img alt="image" src="https://media.giphy.com/media/2521NkSa5NpyWJxXJg/giphy.gif"/>
 
 
 
