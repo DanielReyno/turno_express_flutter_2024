@@ -1,11 +1,12 @@
 # turno_express_flutter_2024
 
 <h2>Login view</h2>
-<img width="377" height="814" alt="image" src="https://github.com/user-attachments/assets/53eccecc-d470-4c15-8dbb-12508a587d36" />
+<img width="300" alt="login-gif" src="https://github.com/user-attachments/assets/49d6b9b4-9e07-484d-a9d8-b6d9a15b1a35"/>
 
 <h2>Crear una cuenta</h2>
-<img width="378" height="815" alt="image" src="https://github.com/user-attachments/assets/edbf65fa-0e26-4d3b-9b89-baa2b910c267" />
-<img width="375" height="815" alt="image" src="https://github.com/user-attachments/assets/e566cd7d-c07a-4726-97a2-4c5be7cc9503" />
+<img width="300" alt="register-gif" src="https://github.com/user-attachments/assets/a224b5fc-ed21-4460-805a-865940a73d34"/>
+
+
 
 <h2>Pagina Principal</h2>
 <img width="375" height="844" alt="image" src="https://github.com/user-attachments/assets/f3f4a7db-c103-43bf-ab81-d6d6b49afe2a" />
