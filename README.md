@@ -36,10 +36,29 @@
 <img alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamp5ZG9zejF4Z2V3YjV4YXpiMmtua3Q1bjJiZXI2bnhlNmEzOW5uOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OqLcvvZbFkykD3hnUN/giphy.gif"/>
 
 <h2>Detalles de un establecimiento</h2>
-<img alt="image" src="https://media.giphy.com/media/qSKCzTkZS0s0GdIfcX/giphy.gif"/>
-<img alt="image" src="https://media.giphy.com/media/IKhRjnmWWAxwHdtmoD/giphy.gif"/>
-<img alt="image" src="https://media.giphy.com/media/2521NkSa5NpyWJxXJg/giphy.gif"/>
+<p>
+  
+  <img alt="image" src="https://media.giphy.com/media/qSKCzTkZS0s0GdIfcX/giphy.gif"/>
+  <img alt="image" src="https://media.giphy.com/media/IKhRjnmWWAxwHdtmoD/giphy.gif"/>
+  <img alt="image" src="https://media.giphy.com/media/2521NkSa5NpyWJxXJg/giphy.gif"/>
+</p>
 
+<h2>Detalles de un servicio</h2>
+<p>
+  <img alt="image" src="https://media.giphy.com/media/7NTVDI4lPhgtfoeqsF/giphy.gif"/>
+  <img alt="image" src="https://media.giphy.com/media/c4JOboIaJRFK6dOx4y/giphy.gif"/>
+</p>
 
+<h2>Vista administrativa de un establecimiento</h2>
+<p>
+  <img alt="image" src="https://media.giphy.com/media/i8loPVquEa8Diz5nrY/giphy.gif">
+  <img alt="image" src="https://media.giphy.com/media/WZkG4kOzTAipHsNJmq/giphy.gif">
+  <img alt="image" src="https://media.giphy.com/media/NeZmngCphEvCqNoOCw/giphy.gif">
+  <img alt="image" src="https://media.giphy.com/media/VJ5qbiTJy3qu1RSkJV/giphy.gif">
+</p>
 
+<h2>Vista administrativa de un servicio</h2>
+<img alt="image" src="https://media.giphy.com/media/HozwOHkRCr7c7gcf3X/giphy.gif">
 
+<h2>Vista de notificaciones</h2>
+<img alt="image" src="https://media.giphy.com/media/n82NBvyZ1zBDkVO1BL/giphy.gif">
